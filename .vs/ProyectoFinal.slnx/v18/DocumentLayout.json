@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity proyects\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\historiaman2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\historiaman2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\historiamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\historiamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\koradragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\koradragdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\puzzleruedasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzleruedasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\anillorotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anillorotador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity proyects\\proyectofinal\\assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cambiarescena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoraDragDrop.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\KoraDragDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KoraDragDrop.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\KoraDragDrop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KoraDragDrop.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T22:49:07.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistoriaMan2.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\HistoriaMan2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HistoriaMan2.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\HistoriaMan2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HistoriaMan2.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T21:35:30.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PuzzleRuedasManager.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\PuzzleRuedasManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PuzzleRuedasManager.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\PuzzleRuedasManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PuzzleRuedasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:09:49.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnilloRotador.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\AnilloRotador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnilloRotador.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\AnilloRotador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnilloRotador.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T05:08:51.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistoriaManager.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\HistoriaManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HistoriaManager.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\HistoriaManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HistoriaManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:56:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CambiarEscena.cs",
+              "DocumentMoniker": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CambiarEscena.cs",
+              "ToolTip": "D:\\Unity proyects\\ProyectoFinal\\Assets\\Scripts\\CambiarEscena.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CambiarEscena.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T21:50:09.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

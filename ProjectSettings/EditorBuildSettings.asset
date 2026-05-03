@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: 4ad10a77f07530c488cb3c1650bc3bc2
+  - enabled: 1
+    path: Assets/Scenes/HistoriaInicial.unity
+    guid: b9d1c934544822c4086ad3fec3495e36
+  - enabled: 1
+    path: Assets/Scenes/Nivel_Artefacto_Sierra.unity
+    guid: 14d12d538bd65134e9260e9b62bc35aa
+  - enabled: 1
+    path: Assets/Scenes/Historiaseguirnivel.unity
+    guid: 9be5cd30e79861f48967289262315c0c
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: e170fffd2527486418a3a8d8377ba71d
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
