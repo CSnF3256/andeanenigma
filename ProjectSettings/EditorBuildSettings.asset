@@ -23,5 +23,23 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Niveles.unity
     guid: e170fffd2527486418a3a8d8377ba71d
+  - enabled: 1
+    path: Assets/Scenes/Nivel_Costa_Manabi.unity
+    guid: f8a2ca29361ffeb438d43b7cd0121e9a
+  - enabled: 1
+    path: Assets/Scenes/HistoriaNivelCosta.unity
+    guid: 1b49560631642a84ba58f30da01ee1ee
+  - enabled: 1
+    path: Assets/Scenes/Nivel_Amazonia_Napo.unity
+    guid: 5f77cc09db916464c97d2256106b8bcb
+  - enabled: 1
+    path: Assets/Scenes/HistoriaAmazonia.unity
+    guid: 5e04bbfa92a3fb94691966b768c57c25
+  - enabled: 1
+    path: Assets/Scenes/HistoriaGalapagos.unity
+    guid: 3355bedf3e8b81b42aade1a04d97e404
+  - enabled: 1
+    path: Assets/Scenes/Nivel_Galapagos.unity
+    guid: 06ac1e7ea9c7f414990456a93e6170fd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -20,7 +20,32 @@ public class CambiarEscena : MonoBehaviour
     {
         SceneManager.LoadScene("Niveles");
     }
+    public void IrAHistoriaNivelCosta()
+    {
+        SceneManager.LoadScene("HistoriaNivelCosta");
+    }
+    public void IrAHistoriaNivelAmazonia()
+    {
+        SceneManager.LoadScene("HistoriaAmazonia");
+    }
 
+    public void IrANivelAmazonia()
+    {
+        SceneManager.LoadScene("Nivel_Amazonia_Napo");
+    }
+
+    public void IrANivelGalapagos()
+    {
+        SceneManager.LoadScene("Nivel_Galapagos");
+    }
+    public void IrAHistoriaGalapagos()
+    {
+        SceneManager.LoadScene("HistoriaGalapagos");
+    }
+    public void IrANivelCostaManabi()
+    {
+        SceneManager.LoadScene("Nivel_Costa_Manabi");
+    }
     public void IrAMenu()
     {
         SceneManager.LoadScene("MenuInicio");

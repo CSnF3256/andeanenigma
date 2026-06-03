@@ -37,7 +37,7 @@ public class MiniHistoriaManager : MonoBehaviour
         "Carla: Excelente trabajo. Has demostrado tu habilidad para comprender este tipo de mecanismos.",
         "Carla: Empiezas desde ahora. En el panel de niveles, puedes completar tus próximas tareas.",
         "Me pregunto para qué necesitan mi ayuda descifrando estos artefactos.",
-        "Carla: Es pura investigación, con el tiempo lo irás comprendiendo mejor...",
+        "Carla: Es pura investigación, con el tiempo lo irás comprendiendo mejor... Ahora viajamos a la Costa, prepárate.",
         "Carla: Este es Kora, la mascota de la empresa. Es un búho que te ayudará con tus tareas, experto en historia y símbolos. No dudes en consultarle cualquier duda sobre los artefactos o las misiones."
     };
 
